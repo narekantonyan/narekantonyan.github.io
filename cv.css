@@ -1,0 +1,9 @@
+body{background: rgb(240, 250, 250)}
+h2#Cur:hover {background-color: blue; 
+			color: white;
+			font-family: sans-serif;
+			border: 10px solid}
+div.my_list:hover {background-color: red; 
+					color: white;
+					font-family: sans-serif;
+					border: 20px solid}
